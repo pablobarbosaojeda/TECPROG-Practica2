@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class RiesgoHielo {
+
+public class ElTiempo {
 
     public static void main(String [] args) {
         //Se crea un objeto Scanner para leer la temperatura desde el input estandar
