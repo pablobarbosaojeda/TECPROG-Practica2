@@ -12,4 +12,9 @@ En el algoritmo proporcionado, se mencionan variables como 'valor1', 'valor2' y 
 
 La detección y corrección de errores lógicos en algoritmos de IA son fundamentales para la efectividad del modelo. Para abordar este ejercicio, se requiere un análisis detallado del código para identificar posibles problemas que podrían afectar el modelo. La precisión y corrección en la manipulación de datos son críticas para garantizar la calidad del modelo. Corregir errores implica una revisión minuciosa del código y la implementación de soluciones efectivas.
 
+### Ejercicio 4: Cálculo de Parámetros en IA - Algoritmo para Velocidad Media
+En este algoritmo, se calcula la velocidad media utilizando la fórmula básica de la distancia dividida por el tiempo. En el contexto de un sistema de IA para el análisis de datos de transporte, la velocidad media es un parámetro importante que puede proporcionar información sobre el rendimiento del transporte en diferentes situaciones. 
+
+Este cálculo de velocidad media puede integrarse en un sistema más grande de IA para analizar y predecir el rendimiento del transporte, identificar patrones de tráfico, optimizar rutas o planificar servicios de transporte público.
+
 
